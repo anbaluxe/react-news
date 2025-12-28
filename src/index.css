@@ -1,0 +1,12 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	box-sizing: border-box;
+	font-family: 'Inter', 'sans-serif';
+}
+
+.container {
+	min-height: 100vh;
+	padding: 24px;
+}
